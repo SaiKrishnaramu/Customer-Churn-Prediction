@@ -119,7 +119,7 @@ pip install pandas numpy scikit-learn plotly
 ### Run the Notebook
 
 ```bash
-jupyter notebook churn_prediction.ipynb
+jupyter notebook churn_prediction_1.ipynb
 ```
 
 > **Note:** The notebook includes a built-in data simulator that generates a realistic 7,043-row dataset matching the IBM Telco schema. To use the original Kaggle dataset instead, replace the simulation block in Section 1 with:
