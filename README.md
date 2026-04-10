@@ -151,6 +151,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">
-  <i>Built with ❤️ by the Data Science Team</i>
-</p>
+
